@@ -1,0 +1,27 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [FoamCutter.PrjPcb]
+   Generated File[FoamCutter.GTO]
+   Generated File[FoamCutter.GTP]
+   Generated File[FoamCutter.GTS]
+   Generated File[FoamCutter.GTL]
+   Generated File[FoamCutter.GBL]
+   Generated File[FoamCutter.GBS]
+   Generated File[FoamCutter.GBP]
+   Generated File[FoamCutter.GBO]
+   Generated File[FoamCutter.GM1]
+   Generated File[FoamCutter.GM15]
+   Generated File[FoamCutter.GKO]
+   Generated File[FoamCutter.GPT]
+   Generated File[FoamCutter.GPB]
+   Generated File[FoamCutter.1]
+   Generated File[FoamCutter.GML]
+   Generated File[FoamCutter.RUL]
+   Generated File[FoamCutter.EXTREP]
+   Generated File[FoamCutter.REP]
+
+
+Files Generated   : 18
+Documents Printed : 0
+
+Finished Output Generation At 11:01:57 On 2023. 08. 11.

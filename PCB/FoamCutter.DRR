@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: FoamCutter.PcbDoc   2023. 08. 11.  11:00:58
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : FoamCutter.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      20mil (0.5mm)                                             Round             39        PTH        0.00inch (0.00mm)
+T2      28mil (0.711mm)                                           Round             48        PTH        0.00inch (0.00mm)
+T3      35mil (0.889mm)                                           Round             52        PTH        0.00inch (0.00mm)
+T4      35mil (0.9mm)                                             Round             223       PTH        0.00inch (0.00mm)
+T5      39mil (1mm)                                               Round             3         PTH        0.00inch (0.00mm)
+T6      43mil (1.1mm)                                             Round             5         PTH        0.00inch (0.00mm)
+T7      51mil (1.3mm)                                             Round             25        PTH        0.00inch (0.00mm)
+T8      118mil (3mm)                                              Round             4         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              399
+
+Total Processing Time (hh:mm:ss) : 00:00:00
